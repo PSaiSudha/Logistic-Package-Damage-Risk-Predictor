@@ -5,6 +5,10 @@
 
 A machine learning project to predict package damage probability during logistics operations, identify handling risks, and improve packaging decisions.
 
+## 🌐 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://logistic-package-damage-risk-predictor-saisudha.streamlit.app/)
+---
+
 ## 📋 Project Overview
 
 This project uses synthetic shipping data to train classification models that predict the likelihood of package damage based on various factors including:
